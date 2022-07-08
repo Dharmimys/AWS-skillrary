@@ -1,0 +1,62 @@
+1.what is cloud computing?
+Ans.: cloud computing is the delivery of computing services—including servers,
+storage, databases, networking, software, analytics, and intelligence—over the 
+Internet (“the cloud”) to offer faster innovation, flexible resources, and economies of scale.
+
+
+2. what are the different types of cloud based on service and deployement?
+
+
+3. what is scaling?
+ans. scaling is the process of adding or removing compute, storage, and network services
+to meet the demands a workload makes for resources in order to maintain availability
+and performance as utilization increases.
+
+
+4. what are the different types of scaling? explain?
+ans. there are 2 types of scaling
+	1. Horizontal scaling
+	2. vertical scaling
+
+     1. Horizontal scaling: horizontal scaling is about adding or removing more machines of 
+        similar capacity to the infrastructure in order to handle an increase in load.
+
+     2. Vertical scaling:  It is the ability to increase or decrease the capacity of existing
+	hardware or software by adding resources.
+
+5. What are the advantages of cloud?
+ans. 1.Cost Savings
+     2.Security
+     3.Flexibility
+     4.Mobility
+     5.Insight
+     6.Increased Collaboration
+     7.Disaster Recovery
+     8.Loss Prevention
+
+6. What is a data center? 
+ans. A data center is a facility that centralizes an organization's shared IT operations and equipment
+     for the purposes of storing, processing, and disseminating data and applications.
+     or 
+     data centers are the storage of multiple server in a single place
+
+7. What do you mean multi-tenant?
+ans. multiple customer consume services delivered using shared infrasructure
+
+8. What do you mean by Pay-as-you-go?
+ans. Pay-as-You-Go business models gives people the ability to pay for what they use as they need it and can afford it.
+     In the case of devices or hardware, ownership is transferred to the end customer over time.
+
+9. What do you mean by cloud provider?
+ans. A cloud service provider is a third-party company offering a cloud-based platform, infrastructure,
+    application or storage services.
+
+10. What is cloud service?
+ans. cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, 
+     analytics, and intelligence—over the Internet (“the cloud”) to offer faster innovation, flexible resources, 
+     and economies of scale. 
+
+11. What are the key characteristics of cloud computing?
+ans. Anything as a service” (XaaS) describes a general category of services related to cloud computing and remote access.
+     It recognizes the vast number of products, tools, and technologies that are now delivered to users as a service
+     over the internet
