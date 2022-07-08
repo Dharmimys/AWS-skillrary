@@ -1,16 +1,20 @@
 1.what is cloud computing?
 Ans.: cloud computing is the delivery of computing services—including servers,
-storage, databases, networking, software, analytics, and intelligence—over the 
-Internet (“the cloud”) to offer faster innovation, flexible resources, and economies of scale.
+      storage, databases, networking, software, analytics, and intelligence—over the 
+      Internet (“the cloud”) to offer faster innovation, flexible resources, and economies of scale.
 
 
 2. what are the different types of cloud based on service and deployement?
-
+ans. There are 4 main types of cloud computing: private clouds, public clouds, 
+     hybrid clouds, and multiclouds. 
+     There are also 3 main types of cloud computing services: 
+     Infrastructure-as-a-Service (IaaS), Platforms-as-a-Service (PaaS), and 
+     Software-as-a-Service (SaaS).
 
 3. what is scaling?
 ans. scaling is the process of adding or removing compute, storage, and network services
-to meet the demands a workload makes for resources in order to maintain availability
-and performance as utilization increases.
+     to meet the demands a workload makes for resources in order to maintain availability
+     and performance as utilization increases.
 
 
 4. what are the different types of scaling? explain?
